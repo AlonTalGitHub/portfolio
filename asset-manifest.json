@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.e5864664.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e5864664.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.83eeea52.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.83eeea52.js.map",
+    "static/css/2.4707e12a.chunk.css": "/portfolio/static/css/2.4707e12a.chunk.css",
+    "static/js/2.ee0b353d.chunk.js": "/portfolio/static/js/2.ee0b353d.chunk.js",
+    "static/js/2.ee0b353d.chunk.js.map": "/portfolio/static/js/2.ee0b353d.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.183059bc87868d61bc9b6c23636b4817.js": "/portfolio/precache-manifest.183059bc87868d61bc9b6c23636b4817.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.4707e12a.chunk.css.map": "/portfolio/static/css/2.4707e12a.chunk.css.map",
+    "static/js/2.ee0b353d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ee0b353d.chunk.js.LICENSE.txt",
+    "static/media/NeueHaasDisplay-Mediu.woff": "/portfolio/static/media/NeueHaasDisplay-Mediu.5ab8d9e3.woff",
+    "static/media/NeueHaasDisplay-Roman.woff": "/portfolio/static/media/NeueHaasDisplay-Roman.127d6b3d.woff",
+    "static/media/alon.657194b2.png": "/portfolio/static/media/alon.657194b2.png",
+    "static/media/buddhas.9638b42c.jpg": "/portfolio/static/media/buddhas.9638b42c.jpg",
+    "static/media/cv.pdf": "/portfolio/static/media/cv.92dd8ba6.pdf",
+    "static/media/logo.61779323.png": "/portfolio/static/media/logo.61779323.png",
+    "static/media/routes.bc62456c.jpg": "/portfolio/static/media/routes.bc62456c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83eeea52.js",
+    "static/css/2.4707e12a.chunk.css",
+    "static/js/2.ee0b353d.chunk.js",
+    "static/js/main.e5864664.chunk.js"
+  ]
+}
