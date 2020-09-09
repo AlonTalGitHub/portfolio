@@ -30,6 +30,9 @@ const useStyles = makeStyles((theme) => ({
     [theme.breakpoints.down("xs")]: {
       height: 420,
     },
+    '@media (max-width:450px)': {
+      height: 350,
+    },
     "&:hover, &$focusVisible": {
       zIndex: 1,
       "& $imageBackdrop": {

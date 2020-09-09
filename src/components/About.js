@@ -38,8 +38,8 @@ const useStyles = makeStyles(() => ({
       margin: "0px auto",
     },
     text: {
-      fontSize: "7vw",
-      lineHeight: "9vw",
+      fontSize: "5vw",
+      lineHeight: "7vw",
     },
     navigate: {
       color: "transparent",

@@ -7,6 +7,9 @@ import profileImg from "../assets/img/alon.png"
 import logoImg from "../assets/img/logo.png"
 
 const useStyles = makeStyles((theme) => ({
+  appbar: {
+    position: "fixed",
+  },
   toolbar: {
     height: "70px",
   },
